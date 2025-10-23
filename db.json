@@ -1,0 +1,91 @@
+{
+  "Bots": [
+    {
+      "id": "2",
+      "name": "Heavy-Infantry",
+      "health": 86,
+      "damage": 76,
+      "armor": 80,
+      "bot_class": "Enforcer",
+      "bot_justification": "Raw,devastating fire power",
+      "avatar_url": "https://i.pinimg.com/736x/4a/0b/9c/4a0b9c6658e7b8a1942082aea4d0dcff.jpg",
+      "created_at": "2025-19-10-10:55",
+      "updated_at": "2025-19-10-10:55"
+    },
+    {
+      "id": "3",
+      "name": "Special-Opps",
+      "health": 86,
+      "damage": 89,
+      "armor": 85,
+      "bot_class": "Wildcard",
+      "bot_justification": "Ghost infiltrator,high speed interception",
+      "avatar_url": "https://i.pinimg.com/736x/74/f8/d4/74f8d4c873910f44af6565eff9b0fe35.jpg",
+      "created_at": "2025-19-10-10:55",
+      "updated_at": "2025-19-10-10:55"
+    },
+    {
+      "id": "4",
+      "name": "Air Support-Bomber",
+      "health": 65,
+      "damage": 90,
+      "armor": 94,
+      "bot_class": "Air-Support",
+      "bot_justification": "Jamming,slicing,navigate dangerous terrain and general heroism",
+      "avatar_url": "https://i.pinimg.com/1200x/a2/2f/1c/a22f1c099adaa90d2335c41f7bea95ca.jpg",
+      "created_at": "2025-19-10-10:55",
+      "updated_at": "2025-19-10-10:55"
+    },
+    {
+      "id": "5",
+      "name": "Recon-Scout",
+      "health": 76,
+      "damage": 71,
+      "armor": 59,
+      "bot_class": "Resourceful",
+      "bot_justification": "Small resourceful with an array of useful gadgets",
+      "avatar_url": "https://i.pinimg.com/736x/3d/66/d6/3d66d62281ae5c835f8e1e583cf35843.jpg",
+      "created_at": "2025-19-10-10:55",
+      "updated_at": "2025-19-10-10:55"
+    },
+    {
+      "id": "6",
+      "name": "Artillery",
+      "health": 66,
+      "damage": 96,
+      "armor": 90,
+      "bot_class": "Weapon_platform",
+      "bot_justification": "Slow,but armed with overwhelming firepower",
+      "avatar_url": "https://i.pinimg.com/736x/34/a9/78/34a978973beb96d10648ee086ebe9e53.jpg",
+      "created_at": "2025-19-10-10:55",
+      "updated_at": "2025-19-10-10:55"
+    },
+    {
+      "id": "84ed",
+      "name": "Bumble Bee",
+      "class": "Logistics",
+      "health": "76",
+      "damage": "62",
+      "avatar_url": "",
+      "avatar": "https://i.pinimg.com/736x/50/a0/3f/50a03ffcfe1ffbedc2a91692aebc1e1c.jpg"
+    },
+    {
+      "id": "6105",
+      "name": "BoltTron ⚡",
+      "class": "Supersonic speeds",
+      "health": "80",
+      "damage": "70",
+      "avatar_url": "",
+      "avatar": "https://i.pinimg.com/736x/1f/03/53/1f03534215e28848f29bf91b66ac6175.jpg"
+    },
+    {
+      "id": "adf6",
+      "name": "MechaNova",
+      "class": "Mechanical Systems Infiltration",
+      "health": "70",
+      "damage": "50",
+      "avatar_url": "",
+      "avatar": "https://i.pinimg.com/736x/b2/da/c9/b2dac90a54876ad3f7ae8cb5048d2617.jpg"
+    }
+  ]
+}
